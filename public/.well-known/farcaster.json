@@ -1,0 +1,36 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "WebInsight Social",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://app-8de4d713-az8u.vercel.app",
+    "imageUrl": "https://cf199856-f452-46e0-a324-97ee8de4d713.vercel.app/image.png",
+    "splashImageUrl": "https://cf199856-f452-46e0-a324-97ee8de4d713.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "webhookUrl": "https://app-8de4d713-az8u.vercel.app/api/webhook",
+    "subtitle": "Built with Zara",
+    "description": "WebInsight Social is a Base Mini App built with Zara.",
+    "screenshotUrls": [
+      "https://cf199856-f452-46e0-a324-97ee8de4d713.vercel.app/screenshot1.png",
+      "https://cf199856-f452-46e0-a324-97ee8de4d713.vercel.app/screenshot2.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "heroImageUrl": "https://cf199856-f452-46e0-a324-97ee8de4d713.vercel.app/hero.png",
+    "tagline": "WebInsight Social",
+    "buttonTitle": "Open mini app",
+    "ogTitle": "WebInsight Social",
+    "ogDescription": "WebInsight Social is a Base Mini App built with Zara.",
+    "ogImageUrl": "https://cf199856-f452-46e0-a324-97ee8de4d713.vercel.app/og-image.png",
+    "castShareUrl": "https://warpcast.com/~/compose?text=Check+out+WebInsight%20Social+at+https%3A%2F%2Fcf199856-f452-46e0-a324-97ee8de4d713.vercel.app"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "WebInsight Social",
+  "description": "WebInsight Social is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://cf199856-f452-46e0-a324-97ee8de4d713.vercel.app",
+  "properties": {
+    "app": {
+      "name": "WebInsight Social",
+      "description": "WebInsight Social is a Base Mini App built with Zara.",
+      "url": "https://cf199856-f452-46e0-a324-97ee8de4d713.vercel.app",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}
